@@ -32,6 +32,7 @@ atera.pubnubapi.com
 cacerts.thawte.com
 checkin.eu.eset.com
 checkin.us.eset.com
+data.microsoft.com
 download.eset.com
 download.visualstudio.microsoft.com
 duckduckgo.com
@@ -47,6 +48,7 @@ lacourt.org
 mdm.eset.com
 mdmcomm.eu.eset.com
 mdmcomm.us.eset.com
+mobile.events.data.microsoft.com
 msp.eset.com
 outlook.office365.com
 packagesstore.blob.core.windows.net
