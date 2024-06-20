@@ -1,4 +1,4 @@
-*.a.ecaserver.eset.com
+*.ecaserver.eset.com
 *.acronis.com
 *.atera.com
 *.c.eset.com
@@ -37,6 +37,7 @@ download.eset.com
 download.visualstudio.microsoft.com
 duckduckgo.com
 eba.eset.com
+ecaserver.eset.com
 edf.eset.com
 epns.eset.com
 eset.com
