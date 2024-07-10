@@ -81,6 +81,7 @@ redirector.eset.systems
 repository.eset.com
 ringcentral.com
 sagetimeslipsecenter.com
+scra.dmdc.osd.mil
 spoprod-a.akamaihd.net
 ssw.live.com
 storage.live.com
