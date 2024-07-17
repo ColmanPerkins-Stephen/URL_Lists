@@ -1,4 +1,3 @@
-*.ecaserver.eset.com
 *.acronis.com
 *.amazon.com
 *.atera.com
