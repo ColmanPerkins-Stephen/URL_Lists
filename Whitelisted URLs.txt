@@ -3,7 +3,6 @@
 *.atera.com
 *.c.eset.com
 *.cloud.microsoft
-*.e5.sk
 *.eset.com
 *.eset.systems
 *.eu.eset.com
