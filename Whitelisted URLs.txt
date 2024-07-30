@@ -20,7 +20,6 @@
 *.servicedesk.atera.com
 *.sharepoint.com
 *.sharepointonline.com
-*.svc.ms
 *.teams.microsoft.com
 *.trevorai.com
 *.uptimerobot.com
