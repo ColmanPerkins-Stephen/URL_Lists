@@ -27,6 +27,7 @@
 *.us.eset.com
 *.wns.windows.com
 a32dl55qcodech-ats.iot.eu-west-1.amazonaws.com
+abgw-phx1-arp2.acronis.com
 acronis.com
 admin.onedrive.com
 agent-api.atera.com
