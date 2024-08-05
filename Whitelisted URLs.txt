@@ -43,6 +43,7 @@ atera.pubnubapi.com
 cacerts.thawte.com
 checkin.eu.eset.com
 checkin.us.eset.com
+cloud.acronis.com
 compass-ssl.microsoft.com
 data.microsoft.com
 device-metrics-us.amazon.com
