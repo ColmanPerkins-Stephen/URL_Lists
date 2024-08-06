@@ -27,12 +27,14 @@
 *.us.eset.com
 *.wns.windows.com
 a32dl55qcodech-ats.iot.eu-west-1.amazonaws.com
+abgw-phx1-arp1.acronis.com
 abgw-phx1-arp2.acronis.com
 acronis.com
 admin.onedrive.com
 agent-api.atera.com
 agenthb.atera.com
 agentreportingstore.blob.core.windows.net
+agents-us5-cloud.acronis.com
 agentspoliciesprod.blob.core.windows.net
 aka.ms
 app.atera.com
@@ -40,9 +42,14 @@ appcdn.atera.com
 atera-agent-heartbeat-cus.servicebus.windows.net
 atera-agent-heartbeat.servicebus.windows.net
 atera.pubnubapi.com
+baas-fes-us2-acs1.acronis.com
+baas-fes-us2.acronis.com
+branded-us5-cloud.acronis.com
 cacerts.thawte.com
 checkin.eu.eset.com
 checkin.us.eset.com
+cloud-fes-us2.acronis.com
+cloud-wr-us2.acronis.com
 cloud.acronis.com
 compass-ssl.microsoft.com
 data.microsoft.com
@@ -80,6 +87,7 @@ pubsub.pubnub.com
 redirector.eset.systems
 repository.eset.com
 ringcentral.com
+rs-us5-cloud.acronis.com
 sagetimeslipsecenter.com
 scra.dmdc.osd.mil
 spoprod-a.akamaihd.net
@@ -105,3 +113,4 @@ unicorndigitalcourtroom.com
 uptimerobot.com
 us.mdm.eset.com
 us02.protect.eset.com
+us5-cloud.acronis.com
