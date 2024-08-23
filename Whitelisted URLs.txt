@@ -43,6 +43,7 @@ kindle-time.amazon.com
 knowbe4.com
 lacourt.org
 livegrid.eset.systems
+liveinstaller.eset.systems
 mdm.eset.com
 mlccdnprod.azureedge.net
 mobile.events.data.microsoft.com
