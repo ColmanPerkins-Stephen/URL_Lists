@@ -70,6 +70,7 @@ scra.dmdc.osd.mil
 secure.skypeassets.com
 secure.zolasuite.com
 servicedesk.atera.com
+sftp2.anico.com
 sharepoint.com
 sharepointonline.com
 spoprod-a.akamaihd.net
