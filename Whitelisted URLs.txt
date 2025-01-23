@@ -56,6 +56,7 @@ outlook.com
 outlook.office.com
 outlook.office365.com
 packagesstore.blob.core.windows.net
+phishing.eset.com
 protect.eset.com
 ps.atera.com
 ps.pndsn.com
