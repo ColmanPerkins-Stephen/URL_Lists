@@ -1,6 +1,7 @@
 a32dl55qcodech-ats.iot.eu-west-1.amazonaws.com
 abgw-phx1-arp1.acronis.com
 abgw-phx1-arp2.acronis.com
+abgw-us6-acs2.acronis.com
 acronis.com
 admin.onedrive.com
 agent-api.atera.com
@@ -17,7 +18,6 @@ atera-agent-heartbeat.servicebus.windows.net
 atera.com
 atera.pubnubapi.com
 baas-fes-us2-acs1.acronis.com
-baas-fes-us2.acronis.com
 branded-us5-cloud.acronis.com
 c.eset.com
 cacerts.thawte.com
