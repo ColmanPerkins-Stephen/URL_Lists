@@ -30,6 +30,7 @@ datadoghq.com
 device-metrics-us.amazon.com
 download.eset.com
 download.visualstudio.microsoft.com
+download.zolasuite.com
 duckduckgo.com
 eba.eset.com
 ecaserver.eset.com
