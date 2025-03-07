@@ -99,6 +99,7 @@ uptimerobot.com
 us.eset.com
 us.mdm.eset.com
 us02.protect.eset.com
+zolasuite.com
 us5-cloud.acronis.com
 wns.windows.com
 zolasuite.com
