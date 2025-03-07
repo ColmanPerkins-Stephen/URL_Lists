@@ -26,6 +26,7 @@ cloud-wr-us2.acronis.com
 cloud.acronis.com
 cloud.microsoft
 compass-ssl.microsoft.com
+datadoghq.com
 device-metrics-us.amazon.com
 download.eset.com
 download.visualstudio.microsoft.com
@@ -99,7 +100,7 @@ uptimerobot.com
 us.eset.com
 us.mdm.eset.com
 us02.protect.eset.com
-zolasuite.com
 us5-cloud.acronis.com
+vjs.zencdn.net
 wns.windows.com
 zolasuite.com
