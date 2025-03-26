@@ -50,6 +50,7 @@ mdm.eset.com
 mlccdnprod.azureedge.net
 mobile.events.data.microsoft.com
 msp.eset.com
+myapps.paychex.com
 office.com
 office365.com
 officeclient.microsoft.com
@@ -59,6 +60,7 @@ outlook.office.com
 outlook.office365.com
 packagesstore.blob.core.windows.net
 phishing.eset.com
+plus.lexis.com
 protect.eset.com
 ps.atera.com
 ps.pndsn.com
@@ -105,3 +107,4 @@ us5-cloud.acronis.com
 vjs.zencdn.net
 wns.windows.com
 zolasuite.com
+zolasecuredocument.s3-accelerate.amazonaws.com
