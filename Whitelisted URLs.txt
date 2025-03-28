@@ -21,6 +21,7 @@ baas-fes-us2-acs1.acronis.com
 branded-us5-cloud.acronis.com
 c.eset.com
 cacerts.thawte.com
+cdn.pend.io
 cloud-fes-us2.acronis.com
 cloud-wr-us2.acronis.com
 cloud.acronis.com
@@ -104,6 +105,7 @@ us.eset.com
 us.mdm.eset.com
 us02.protect.eset.com
 us5-cloud.acronis.com
+usc-word-edit.officeapps.live.com
 vjs.zencdn.net
 wns.windows.com
 zolasuite.com
