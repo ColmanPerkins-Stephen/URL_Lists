@@ -16,6 +16,7 @@ appcdn.atera.com
 atera-agent-heartbeat-cus.servicebus.windows.net
 atera-agent-heartbeat.servicebus.windows.net
 atera.com
+atera.cloud.looker.com
 atera.pubnubapi.com
 baas-fes-us2-acs1.acronis.com
 branded-us5-cloud.acronis.com
