@@ -63,6 +63,7 @@ outlook.office365.com
 packagesstore.blob.core.windows.net
 phishing.eset.com
 plus.lexis.com
+pp.ringcentral.com
 protect.eset.com
 ps.atera.com
 ps.pndsn.com
@@ -71,6 +72,7 @@ pubsub.pubnub.com
 redirector.eset.systems
 repository.eset.com
 ringcentral.com
+ringcentral.pubnubapi.com
 rs-us5-cloud.acronis.com
 sagetimeslipsecenter.com
 scra.dmdc.osd.mil
