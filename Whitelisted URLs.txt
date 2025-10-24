@@ -67,6 +67,8 @@ packagesstore.blob.core.windows.net
 phishing.eset.com
 plus.lexis.com
 pp.ringcentral.com
+pp.fw.ringcentral.com
+pp.s3.ringcentral.com
 protect.eset.com
 ps.atera.com
 ps.pndsn.com
@@ -117,4 +119,4 @@ vjs.zencdn.net
 wns.windows.com
 zolasuite.com
 zolasecuredocument.s3-accelerate.amazonaws.com
-
+ztp.polycom.com
