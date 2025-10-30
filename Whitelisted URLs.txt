@@ -3,6 +3,7 @@ abgw-phx1-arp1.acronis.com
 abgw-phx1-arp2.acronis.com
 abgw-us6-acs2.acronis.com
 acronis.com
+action1.com
 admin.onedrive.com
 agent-api.atera.com
 agenthb.atera.com
@@ -11,6 +12,7 @@ agents-us5-cloud.acronis.com
 agentspoliciesprod.blob.core.windows.net
 aka.ms
 amazon.com
+app.action1.com
 app.atera.com
 appcdn.atera.com
 atera-agent-heartbeat-cus.servicebus.windows.net
@@ -120,3 +122,4 @@ wns.windows.com
 zolasuite.com
 zolasecuredocument.s3-accelerate.amazonaws.com
 ztp.polycom.com
+
