@@ -10,7 +10,6 @@ agenthb.atera.com
 agentreportingstore.blob.core.windows.net
 agents-us5-cloud.acronis.com
 agentspoliciesprod.blob.core.windows.net
-aka.ms
 amazon.com
 app.action1.com
 app.atera.com
@@ -29,7 +28,6 @@ cloud-fes-us2.acronis.com
 cloud-wr-us2.acronis.com
 cloud.acronis.com
 cloud.microsoft
-compass-ssl.microsoft.com
 datadoghq.com
 datadoghq-browser-agent.com
 device-metrics-us.amazon.com
@@ -91,7 +89,6 @@ sharepoint.com
 sharepointonline.com
 spoprod-a.akamaihd.net
 srnkkdftnmbe3ileje3sm3e234.a.ecaserver.eset.com
-ssw.live.com
 storage.live.com
 teams.microsoft.com
 teslamotorsinc.sharepoint.com
@@ -122,4 +119,3 @@ wns.windows.com
 zolasuite.com
 zolasecuredocument.s3-accelerate.amazonaws.com
 ztp.polycom.com
-
