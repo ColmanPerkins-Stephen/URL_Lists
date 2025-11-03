@@ -45,9 +45,6 @@ eu.mdm.eset.com
 eu02.protect.eset.com
 fonts.googleapis.com
 identity.eset.com
-kindle-time.amazon.com
-knowbe4.com
-lacourt.org
 livegrid.eset.systems
 liveinstaller.eset.systems
 maxcdn.bootstrapcdn.com
@@ -79,7 +76,6 @@ repository.eset.com
 ringcentral.com
 ringcentral.pubnubapi.com
 rs-us5-cloud.acronis.com
-sagetimeslipsecenter.com
 scra.dmdc.osd.mil
 secure.skypeassets.com
 secure.zolasuite.com
@@ -93,7 +89,6 @@ storage.live.com
 teams.microsoft.com
 teslamotorsinc.sharepoint.com
 ticketingitemsstoreeu.blob.core.windows.net
-trevorai.com
 ts.eset.com
 tsm09.eset.com
 tsm10.eset.com
