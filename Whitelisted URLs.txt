@@ -13,6 +13,7 @@ cdn.office.net
 cdn.pendo.io
 cloud.microsoft
 coreeu.hotdocsadvance.com
+core-us.hotdocsadvance.com
 data.pendo.io
 datadoghq-browser-agent.com
 datadoghq.com
