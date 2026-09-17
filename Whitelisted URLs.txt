@@ -21,6 +21,7 @@ download.visualstudio.microsoft.com
 download.zolasuite.com
 duckduckgo.com
 fonts.googleapis.com
+hotdocsadvance.com
 maxcdn.bootstrapcdn.com
 microsoft.com
 mlccdnprod.azureedge.net
