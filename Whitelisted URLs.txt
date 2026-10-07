@@ -8,7 +8,9 @@ agent-us2.us2.ninjarmm.com
 amazon.com
 app.action1.com
 atm.office.mira.tm.svc.cloud.microsoft
+auth.caret.legal
 browser-intake-datadoghq.com
+caret.legal
 cacerts.thawte.com
 cdn.office.net
 cdn.pendo.io
