@@ -78,6 +78,7 @@ sftp2.anico.com
 sharepoint.com
 sharepointonline.com
 spoprod-a.akamaihd.net
+strala.ai
 storage.live.com
 teams.microsoft.com
 teslamotorsinc.sharepoint.com
